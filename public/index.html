@@ -1,16 +1,44 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- TODO: crear el cli --> 
+      <!-- TODO: crear tailwindcss cli --> 
     <script src="https://cdn.tailwindcss.com"></script>
     <title>PokeApi</title>
-</head>
-<body>
-  <h1 class="text-8xl font-bold underline">
-    Hello worldddd!
-  </h1>
-</body>
+  </head>
+  <body>
+    <header id="header">
+      <!-- container -->
+      <div class="w-[90%] mx-auto my-0 flex flex-col gap-8 py-4">
+        <div class="flex justify-end">
+          <div id="date"></div>
+          <!-- TODO: agregar iconos svg a los botones -->
+          <button id="toggle-theme" class="rounded px-4 py-2">dark</button>
+          <button id="menu" class="bg-black text-white rounded px-4 py-2">menu</button>
+        </div>
+        <div>
+          <input 
+            type="search"
+            placeholder="busca un pokemon"
+            class="px-2 py-3 w-[100%] rounded-lg border-2 border-solid border-neutral-200 outline-offset-4 outline-blue-400"
+          />
+        </div>
+      </div>
+      <!-- end container -->
+    </header>
+    <main 
+      id="root"
+      class="w-[90%] mx-auto my-0 flex flex-col gap-8 py-4"
+    >
+      <section 
+        id="pokemons-list"
+        class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
+      >
+        <div class="bg-neutral-200 py-36"></div> <!--pruebas-->
+      </section>
+    </main>
+    <footer id="footer"></footer>
+  </body>
 </html>
