@@ -10,4 +10,4 @@ aplicacion creada en HTML, CSS, JS
     informacion detallada - [YOUR NAME HERE].
 - aplicar tema oscuro y claro - [YOUR NAME HERE].
 - crear una barra de busqueda - [YOUR NAME HERE].
-- insertar imagen de la app - KEVIN ILLU.
+- insertar imagenes de los pokemons en las cards de la app - [YOUR NAME HERE].
