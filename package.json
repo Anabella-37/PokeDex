@@ -1,0 +1,27 @@
+{
+  "name": "pokeapi",
+  "version": "1.0.0",
+  "description": "pokeapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Illu/PokeAPi.git"
+  },
+  "keywords": [
+    "HTML",
+    "JS",
+    "TailwindCss"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Illu/PokeAPi/issues"
+  },
+  "homepage": "https://github.com/Kevin-Illu/PokeAPi#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
