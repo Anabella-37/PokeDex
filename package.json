@@ -22,7 +22,4 @@
     "url": "https://github.com/Kevin-Illu/PokeAPi/issues"
   },
   "homepage": "https://github.com/Kevin-Illu/PokeAPi#readme",
-  "devDependencies": {
-    "tailwindcss": "^3.2.4"
-  }
 }
