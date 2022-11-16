@@ -1,3 +1,11 @@
-# PokeAPi
+# POKEAPI
 
-aplicacion creada en HTML, CSS, JS
+Aplicacion creada en HTML, TailwindCss, JS
+
+## Como ejecutar este proyecto.
+
+Para ejecutar Tailwind CLI ejecuta:
+
+```bash
+npm run css
+```
