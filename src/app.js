@@ -11,6 +11,6 @@ import buscarPokemon from './helpers/consumoAPI.js';
 
 // todas la funciones se llaman aqui.
 document.addEventListener('DOMContentLoaded', async() => {
-    const pokemon = await buscarPokemon('pikachu');
+    const pokemon = await buscarPokemon('charizard');
 });
 
