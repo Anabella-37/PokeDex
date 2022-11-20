@@ -24,5 +24,4 @@ this app is for educational purpose, learning and practice
 ### This could help you to start contributing
 
 - issues <https://youtu.be/J3QUbmNk3Es>
-
 - fork this repo <https://youtu.be/BPns9r76vSI>

@@ -1,4 +1,4 @@
-import getPokemon from './services/getPokemon';
+import getPokemon from './services/getPokemonByName';
 
 document.addEventListener('DOMContentLoaded', async () => {
 	const pokemon = await getPokemon('Pokemon');

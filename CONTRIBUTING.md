@@ -8,5 +8,3 @@ Did you find a bug?
 
 - Do you intend to add a new feature or change an existing one?
   Suggest your change in a issue :)
-
-- Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
