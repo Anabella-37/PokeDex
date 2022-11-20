@@ -1,7 +1,7 @@
 {
-  "name": "pokeapi",
+  "name": "pokedex",
   "version": "1.0.0",
-  "description": "PokeApi",
+  "description": "PokeDex",
   "main": "tailwind.config.js",
   "dependencies": {},
   "devDependencies": {
