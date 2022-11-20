@@ -1,6 +1,6 @@
-import buscarPokemon from './helpers/consumoAPI.js';
+import getPokemon from './services/getPokemon';
 
-document.addEventListener('DOMContentLoaded', () => {
-  
+document.addEventListener('DOMContentLoaded', async () => {
+	const pokemon = await getPokemon('Pokemon');
+	return pokemon;
 });
-

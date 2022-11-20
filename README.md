@@ -5,17 +5,17 @@
 this app is for educational purpose, learning and practice
 
 1. Instal all dependencies
-    $ npm run install
+   $ npm run install
 
 2. execute the TailwindCss cli
 
-    $ npm run css
+   $ npm run css
 
 3. install `live-server` extension from vscode once installed press
 
-    Alt+L Alt+O
+   Alt+L Alt+O
 
-    in the `index.html` file
+   in the `index.html` file
 
 4. Go to `http://127.0.0.1:5500/public/index.html` and you'll see the page
 

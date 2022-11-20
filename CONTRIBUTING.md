@@ -7,6 +7,6 @@ Did you find a bug?
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a title and clear description.
 
 - Do you intend to add a new feature or change an existing one?
-Suggest your change in a issue :)
+  Suggest your change in a issue :)
 
 - Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
