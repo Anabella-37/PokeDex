@@ -5,8 +5,8 @@ export default async function getPokemon(pokemon) {
 	const data = await response.json();
 
 	const pokemonJSON = {
-		imagen: data.sprites.front_default,
-		nombre: data.name,
+		image: data.sprites.front_default,
+		name: data.name,
 		hp: data.stats[0].base_stat,
 		attack: data.stats[1].base_stat,
 		defense: data.stats[2].base_stat,
