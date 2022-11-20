@@ -1,4 +1,4 @@
-# POKEAPI
+# POKEDEX
 
 ## Getting Started
 
