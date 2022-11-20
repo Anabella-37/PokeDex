@@ -19,9 +19,11 @@ this app is for educational purpose, learning and practice
 
 4. Go to `http://127.0.0.1:5500/public/index.html` and you'll see the page
 
-5. Follow the guidelines to start to write code
+5. Follow the guidelines to start to write code, check the `CONTRIBUTING.md` file
 
-### This could help you to start contributing
+### This could help you to start contributing or learn something new
 
-- issues <https://youtu.be/J3QUbmNk3Es>
-- fork this repo <https://youtu.be/BPns9r76vSI>
+- how you create any issues <https://youtu.be/J3QUbmNk3Es>
+- how fork this repo <https://youtu.be/BPns9r76vSI>
+- how to configure your repo like this <https://dev.to/npranto/how-i-setup-eslint-prettier-and-editorconfig-for-static-sites-33ep>
+- bem methodology <https://getbem.com/introduction/>

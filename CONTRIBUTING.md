@@ -8,3 +8,5 @@ Did you find a bug?
 
 - Do you intend to add a new feature or change an existing one?
   Suggest your change in a issue :)
+
+- if you need css classes please follow the bem methodology <https://getbem.com/introduction/>
